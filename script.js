@@ -6,8 +6,8 @@ const products = [
     category: "electronics",
     price: 24999, // ₹24,999
     rating: 4.8,
-    image: "./public/premium-wireless-headphones.png",
-    imageBack: "./public/wireless-headphones-side.png",
+    image: "./images/premium-wireless-headphones.png",
+    imageBack: "./images/wireless-headphones-side.png",
     description: "High-quality wireless headphones with noise cancellation",
   },
   {
@@ -16,8 +16,8 @@ const products = [
     category: "fashion",
     price: 49999, // ₹49,999
     rating: 4.9,
-    image: "./public/luxury-leather-jacket.jpg",
-    imageBack: "./public/leather-jacket-back.png",
+    image: "./images/luxury-leather-jacket.jpg",
+    imageBack: "./images/leather-jacket-back.png",
     description: "Genuine leather jacket with premium craftsmanship",
   },
   {
@@ -26,8 +26,8 @@ const products = [
     category: "electronics",
     price: 16699, // ₹16,699
     rating: 4.6,
-    image: "./public/smart-home-speaker.png",
-    imageBack: "./public/smart-speaker-top-view.jpg",
+    image: "./images/smart-home-speaker.png",
+    imageBack: "./images/smart-speaker-top-view.jpg",
     description: "Voice-controlled smart speaker with premium sound",
   },
   {
@@ -36,8 +36,8 @@ const products = [
     category: "fashion",
     price: 74999, // ₹74,999
     rating: 4.7,
-    image: "./public/luxury-quilted-handbag.png",
-    imageBack: "./public/handbag-interior-view.jpg",
+    image: "./images/luxury-quilted-handbag.png",
+    imageBack: "./images/handbag-interior-view.jpg",
     description: "Elegant designer handbag made from premium materials",
   },
   {
@@ -46,8 +46,8 @@ const products = [
     category: "home",
     price: 12499, // ₹12,499
     rating: 4.5,
-    image: "./public/modern-table-lamp.jpg",
-    imageBack: "./public/table-lamp-illuminated.jpg",
+    image: "./images/modern-table-lamp.jpg",
+    imageBack: "./images/table-lamp-illuminated.jpg",
     description: "Contemporary table lamp with adjustable brightness",
   },
   {
@@ -56,8 +56,8 @@ const products = [
     category: "accessories",
     price: 107999, // ₹1,07,999
     rating: 4.9,
-    image: "./public/premium-luxury-watch.jpg",
-    imageBack: "./public/watch-back-case-view.jpg",
+    image: "./images/premium-luxury-watch.jpg",
+    imageBack: "./images/watch-back-case-view.jpg",
     description: "Swiss-made luxury watch with sapphire crystal",
   },
   {
@@ -66,8 +66,8 @@ const products = [
     category: "electronics",
     price: 6699, // ₹6,699
     rating: 4.4,
-    image: "./public/wireless-charging-pad.png",
-    imageBack: "./public/charging-pad-with-phone.jpg",
+    image: "./images/wireless-charging-pad.png",
+    imageBack: "./images/charging-pad-with-phone.jpg",
     description: "Fast wireless charging pad compatible with all devices",
   },
   {
@@ -76,8 +76,8 @@ const products = [
     category: "fashion",
     price: 20799, // ₹20,799
     rating: 4.8,
-    image: "./public/cashmere-scarf.png",
-    imageBack: "./public/scarf-texture-detail.jpg",
+    image: "./images/cashmere-scarf.png",
+    imageBack: "./images/scarf-texture-detail.jpg",
     description: "Luxurious cashmere scarf in multiple colors",
   },
   {
@@ -86,8 +86,8 @@ const products = [
     category: "home",
     price: 15799, // ₹15,799
     rating: 4.6,
-    image: "./public/ceramic-vase-set.png",
-    imageBack: "./public/vases-with-flowers.jpg",
+    image: "./images/ceramic-vase-set.png",
+    imageBack: "./images/vases-with-flowers.jpg",
     description: "Handcrafted ceramic vase set for home decoration",
   },
   {
@@ -96,8 +96,8 @@ const products = [
     category: "accessories",
     price: 10799, // ₹10,799
     rating: 4.7,
-    image: "./public/leather-wallet.jpg",
-    imageBack: "./public/wallet-interior-compartments.jpg",
+    image: "./images/leather-wallet.jpg",
+    imageBack: "./images/wallet-interior-compartments.jpg",
     description: "Premium leather wallet with RFID protection",
   },
   {
@@ -106,8 +106,8 @@ const products = [
     category: "electronics",
     price: 13299, // ₹13,299
     rating: 4.5,
-    image: "./public/bluetooth-earbuds.jpg",
-    imageBack: "./public/earbuds-charging-case.jpg",
+    image: "./images/bluetooth-earbuds.jpg",
+    imageBack: "./images/earbuds-charging-case.jpg",
     description: "True wireless earbuds with premium sound quality",
   },
   {
@@ -116,8 +116,8 @@ const products = [
     category: "fashion",
     price: 33299, // ₹33,299
     rating: 4.8,
-    image: "./public/flowing-silk-dress.png",
-    imageBack: "./public/dress-fabric-detail.jpg",
+    image: "./images/flowing-silk-dress.png",
+    imageBack: "./images/dress-fabric-detail.jpg",
     description: "Elegant silk dress perfect for special occasions",
   },
 ]
